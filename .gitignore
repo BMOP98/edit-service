@@ -1,0 +1,9 @@
+/node_modules
+
+.env
+rollcall.log
+
+
+# Extras
+servertest
+dummydata.txt
